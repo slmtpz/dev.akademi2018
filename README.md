@@ -2,7 +2,7 @@
 ## Seleme Topuz
 
 
-### Data Science
+### Data Science Work
 
 I did analyze the data set given to us by sahibinden.com authorities. The analysis is in the jupyter notebook. 
 
